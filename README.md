@@ -1,4 +1,7 @@
 # LR2IR-Long-Title-Fixer
- crude code
+crude code
 
-use Tampermonkey, only work in LR2IR page.
+It is [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) script, only work in LR2IR page.
+
+## Todo
+Genre와 Artist에도 적용.
