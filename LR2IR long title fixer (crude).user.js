@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         LR2IR long title fixer (crude)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/PARK-SU/LR2IR-Long-Title-Fixer
 // @version      0.1.2
 // @description  lr2ir long title fix code
 // @author       nothing (that) created me
